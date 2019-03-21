@@ -24,6 +24,7 @@ Linked resources may contain spoilers. Don't click if you like to avoid those.
 * Complete all 3 strongholds to get access to specializations.
 * Go from cover to cover with the special key. Agent seems to be much less likely to be shot that way.
 * Press "back" (`esc` for PC) to [not turn away from the crafting table](https://np.reddit.com/r/thedivision/comments/b3pj9p/after_crafting_something_please_stop_my_character/) each time an item is crafted.
+* While using the mini gun, [hold the left trigger](https://np.reddit.com/r/thedivision/comments/b3rop7/control_point_minigun_tip/ej1tfz8/) (`Right Mouse Button` for pc). This will keep the mechanism winding so when you use the right trigger you get instant firing, no delay.
 
 # Useful links (in no particular order)
 
