@@ -15,6 +15,7 @@
 * Vaulting animation will be quicker if you leave the cover first.
 * Most of the control points loot resets daily.
 * Some SHD caches can be reached by opening the door.
+* You can donate items towards projects right from the map without going back to base/settlement. You'll have to visit them to claim the rewards though.
 
 # Useful links (in no particular order)
 
