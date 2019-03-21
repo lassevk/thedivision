@@ -14,6 +14,7 @@
 * It's enough to get all the Control Point resources to 50 to get the buff. If they are already above 50 - just talking to the officer is enough.
 * Vaulting animation will be quicker if you leave the cover first.
 * Most of the control points loot resets daily.
+* Some SHD caches can be reached by opening the door.
 
 # Useful links (in no particular order)
 
