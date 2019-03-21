@@ -1,3 +1,5 @@
+[Rationale](https://www.reddit.com/r/thedivision/comments/b3p8op/the_division_2_tips_and_tricks/).
+
 # Warning
 
 Linked resources may contain spoilers. Don't click if you like to avoid those.
