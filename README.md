@@ -10,6 +10,7 @@
 * There is a "Progression Guide" in the game as well as tons and tons of different statistics, challenges and achievements. While in-game, go into the menu and select "Progression" item. Make srue to visit different tabs as well.There are also commendations rewards you can claim if you have completed any.
 * It's much easier to navigate menus with keyboard then it is with mouse on PC. Try it out.
 * You can [enable "Grid View" in the inventory](https://np.reddit.com/r/thedivision/comments/b0p5ng/you_can_change_your_inventory_style_to_a_grid/). Check "Options" action at the bottom right of the screen with the inventory open.
+* Use completed missions as quick travel locations.
 
 # Useful links (in no particular order)
 
