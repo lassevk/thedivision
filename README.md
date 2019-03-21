@@ -4,6 +4,7 @@ Linked resources may contain spoilers. Don't click if you like to avoid those.
 
 # The Division 2 Tips And Tricks
 
+* When playing in a group don't always rush things. When you are about to begin an encounter there will sometimes be a lot of enemies clumped up. [They could all be CCed for easy take down or even killed instantly](https://www.reddit.com/r/thedivision/comments/b3p8op/the_division_2_tips_and_tricks/ej1w50r/).
 * You can donate items towards projects right from the map screen without going back to base/settlement. You'll have to visit them to claim the rewards though.
 * You can (re)activate bounties from the map screen, there is no need to visit NPC.
 * Incinerator Turret can be toggled on and off. Turned off it has much longer lifetime. Consider turning it on only if necessary.
