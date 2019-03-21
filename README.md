@@ -13,6 +13,7 @@
 * Use completed missions as quick travel locations.
 * It's enough to get all the Control Point resources to 50 to get the buff. If they are already above 50 - just talking to the officer is enough.
 * Vaulting animation will be quicker if you leave the cover first.
+* Most of the control points loot resets daily.
 
 # Useful links (in no particular order)
 
