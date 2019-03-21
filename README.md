@@ -4,6 +4,7 @@
 * Some of the equipment caches are hanging on the trees.
 * [You can clear out Control Points at tier 1 before upgrading them](https://www.reddit.com/r/thedivision/comments/b3can1/psa_you_can_clear_out_control_points_at_tier_1/).
 * Crafting table can and should be upgraded. Look at the bottom right of the screen after you unlock crafting table upgrading functionality. Default button is `x` for PC.
+* Wait for specializations to unlock before doing side missions. They provide considerable experience boost as well as specialization points (once you have those ulocked).
 
 # Useful links (in no particular order)
 
