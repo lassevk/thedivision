@@ -1,6 +1,6 @@
 # Warning
 
-Linked resources may contain spoilers.
+Linked resources may contain spoilers. Don't click if you like to avoid those.
 
 # The Division 2 Tips And Tricks
 
