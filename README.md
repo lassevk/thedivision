@@ -1,5 +1,3 @@
-[Rationale](https://www.reddit.com/r/thedivision/comments/b3p8op/the_division_2_tips_and_tricks/).
-
 # Warning
 
 Linked resources may contain spoilers. Don't click if you like to avoid those.
@@ -22,10 +20,10 @@ Linked resources may contain spoilers. Don't click if you like to avoid those.
 * It's enough to get all the Control Point resources to 50 to get the buff. If they are already above 50 - just talking to the officer is enough.
 * Vaulting animation will be quicker if you leave the cover first.
 * Most of the control points loot resets daily.
-* Some SHD caches can be reached by [opening the door](https://www.reddit.com/r/thedivision/comments/b3l3iv/after_30_minutes_trying_to_find_a_way_into_the/).
+* Some SHD caches can be reached by [opening the door](https://np.reddit.com/r/thedivision/comments/b3l3iv/after_30_minutes_trying_to_find_a_way_into_the/).
 * Complete all 3 strongholds to get access to specializations.
 * Go from cover to cover with the special key. Agent seems to be much less likely to be shot that way.
-* Press "back" (`esc` for PC) to [not turn away from the crafting table](https://www.reddit.com/r/thedivision/comments/b3pj9p/after_crafting_something_please_stop_my_character/) each time an item is crafted.
+* Press "back" (`esc` for PC) to [not turn away from the crafting table](https://np.reddit.com/r/thedivision/comments/b3pj9p/after_crafting_something_please_stop_my_character/) each time an item is crafted.
 
 # Useful links (in no particular order)
 
