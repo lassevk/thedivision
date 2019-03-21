@@ -22,6 +22,7 @@ Linked resources may contain spoilers. Don't click if you like to avoid those.
 * Most of the control points loot resets daily.
 * Some SHD caches can be reached by [opening the door](https://www.reddit.com/r/thedivision/comments/b3l3iv/after_30_minutes_trying_to_find_a_way_into_the/).
 * Complete all 3 strongholds to get access to specializations.
+* Go from cover to cover with the special key. Agent seems to be much less likely to be shot that way.
 
 # Useful links (in no particular order)
 
