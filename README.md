@@ -1,7 +1,7 @@
 # The Division 2 Tips And Tricks
 
 * Incinerator Turret can be toggled on and off. Turned off it has much longer lifetime. Consider turning it on only if necessary.
-* Some of the equipment caches are hanging on the trees.
+* Some of the [equipment caches are hanging in the air](https://np.reddit.com/r/thedivision/comments/b3ibvd/location_of_24no_air_drops_orange_crates/).
 * [You can clear out Control Points at tier 1 before upgrading them](https://np.reddit.com/r/thedivision/comments/b3can1/psa_you_can_clear_out_control_points_at_tier_1/).
 * Crafting table can and should be upgraded. Look at the bottom right of the screen after you unlock crafting table upgrading functionality.
 * Wait for specializations to unlock before doing side missions. They provide considerable experience boost for your field caches.
