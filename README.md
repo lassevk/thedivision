@@ -1,3 +1,7 @@
+# Warning
+
+Linked resources may contain spoilers.
+
 # The Division 2 Tips And Tricks
 
 * You can donate items towards projects right from the map screen without going back to base/settlement. You'll have to visit them to claim the rewards though.
