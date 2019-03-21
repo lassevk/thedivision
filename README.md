@@ -12,6 +12,7 @@
 * You can [enable "Grid View" in the inventory](https://np.reddit.com/r/thedivision/comments/b0p5ng/you_can_change_your_inventory_style_to_a_grid/). Check "Options" action at the bottom right of the screen with the inventory open.
 * Use completed missions as quick travel locations.
 * It's enough to get all the Control Point resources to 50 to get the buff. If they are already above 50 - just talking to the officer is enough.
+* Vaulting animation will be quicker if you leave the cover first.
 
 # Useful links (in no particular order)
 
