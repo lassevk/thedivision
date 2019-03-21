@@ -22,4 +22,5 @@
 * [Brand Sets](https://np.reddit.com/r/thedivision/comments/b3nwva/infographic_all_of_the_division_2s_brand_sets/)
 * [Interactive Map](https://division2map.com/)
 * [Keys Map](https://np.reddit.com/r/thedivision/comments/b3jwp3/map_of_all_keys_w_instructions/)
-* [Commandations Wiki](https://www.reddit.com/r/thedivision/comments/b3oj2n/commendation_wiki_for_the_division_2/)
+* [Commandations Wiki](https://np.reddit.com/r/thedivision/comments/b3oj2n/commendation_wiki_for_the_division_2/)
+* [Commendations Guide](https://np.reddit.com/r/thedivision/comments/b3onz7/commendations_2500_point_guide/)
