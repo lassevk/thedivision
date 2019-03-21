@@ -6,7 +6,7 @@
 * Crafting table can and should be upgraded. Look at the bottom right of the screen after you unlock crafting table upgrading functionality. Default button is `x` for PC.
 * Wait for specializations to unlock before doing side missions. They provide considerable experience boost as well as specialization points (once you have those ulocked).
 * You can disable other agents "Backup Requests". Go to the map, switch to the SHD tab and look at the bottom left of the screen for the button to use.
-* You can explicitly quque for "Backup Requests" and automatically respond to them. Go to map, switch to the "Matchmake" tab and choose "Answer the Call". You will automatically accept next "Backup Request" and start loading into the session immediately after that. Make sure to not do anything important then as it won't place you back in the world when you return. You will be placed into the nearest safe zone to where you have been during the coop session instead.
+* You can explicitly queue for "Backup Requests" and automatically respond to them. Go to map, switch to the "Matchmake" tab and choose "Answer the Call". You will automatically accept next "Backup Request" and start loading into the session immediately after that. Make sure to not do anything important then as it won't place you back in the world when you return. You will be placed into the nearest safe zone to where you have been during the coop session instead.
 
 # Useful links (in no particular order)
 
