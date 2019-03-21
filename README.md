@@ -4,7 +4,7 @@ Linked resources may contain spoilers. Don't click if you like to avoid those.
 
 # The Division 2 Tips And Tricks
 
-* When playing in a group don't always rush things. When you are about to begin an encounter there will sometimes be a lot of enemies clumped up. [They could all be CCed for easy take down or even killed instantly](https://www.reddit.com/r/thedivision/comments/b3p8op/the_division_2_tips_and_tricks/ej1w50r/).
+* When playing in a group don't always rush things. When you are about to begin an encounter there will sometimes be a lot of enemies clumped up. [They could all be CCed for easy take down or even killed instantly](https://np.reddit.com/r/thedivision/comments/b3p8op/the_division_2_tips_and_tricks/ej1w50r/).
 * You can donate items towards projects right from the map screen without going back to base/settlement. You'll have to visit them to claim the rewards though.
 * You can (re)activate bounties from the map screen, there is no need to visit NPC.
 * Incinerator Turret can be toggled on and off. Turned off it has much longer lifetime. Consider turning it on only if necessary.
@@ -35,3 +35,4 @@ Linked resources may contain spoilers. Don't click if you like to avoid those.
 * [Keys Map](https://np.reddit.com/r/thedivision/comments/b3jwp3/map_of_all_keys_w_instructions/)
 * [Commandations Wiki](https://np.reddit.com/r/thedivision/comments/b3oj2n/commendation_wiki_for_the_division_2/)
 * [Commendations Guide](https://np.reddit.com/r/thedivision/comments/b3onz7/commendations_2500_point_guide/)
+* [A Step by Step Guide on How to Obtain All 12 Hunter Mask](https://np.reddit.com/r/thedivision/comments/b3u2ji/a_step_by_step_guide_on_how_to_obtain_all_12/)
