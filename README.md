@@ -17,7 +17,7 @@ Linked resources may contain spoilers. Don't click if you like to avoid those.
 * There is a "Progression Guide" in the game as well as tons and tons of different statistics, challenges and achievements. While in-game, go into the menu and select "Progression" item. Make srue to visit different tabs as well.There are also commendations rewards you can claim if you have completed any.
 * It's much easier to navigate menus with keyboard then it is with mouse on PC. Try it out.
 * You can [enable "Grid View" in the inventory](https://np.reddit.com/r/thedivision/comments/b0p5ng/you_can_change_your_inventory_style_to_a_grid/). Check "Options" action at the bottom right of the screen with the inventory open.
-* Completed missions, dark zone checkpoints, friendly control points, settlements agents from your group and even [control point NPC attack group](https://np.reddit.com/r/thedivision/comments/b3y38t/a_helpful_feature_for_control_points/) can all be used as fast travel locations.
+* Completed missions, dark zone checkpoints, friendly control points, settlements, agents from your group and even [control point NPC attack group](https://np.reddit.com/r/thedivision/comments/b3y38t/a_helpful_feature_for_control_points/) can all be used as fast travel locations.
 * It's enough to get all the Control Point resources to 50 to get the buff. If they are already above 50 - just talking to the officer is enough.
 * Vaulting animation will be quicker if you leave the cover first.
 * Most of the control points loot resets daily.
