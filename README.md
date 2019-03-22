@@ -40,3 +40,4 @@ Linked resources may contain spoilers. Don't click if you like to avoid those.
 * [A Step by Step Guide on How to Obtain All 12 Hunter Mask](https://np.reddit.com/r/thedivision/comments/b3u2ji/a_step_by_step_guide_on_how_to_obtain_all_12/)
 * [DPS Calculator](https://thedivision.zone/)
 * [All Collectibles Locations](https://np.reddit.com/r/thedivision/comments/b32p9a/the_division_2_all_collectibles_location_comms/)
+* [Stats Tracker](https://np.reddit.com/r/thedivision/comments/b0molr/the_division_2_stats_tracker_the_first_stats_and/)
