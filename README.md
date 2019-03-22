@@ -39,3 +39,4 @@ Linked resources may contain spoilers. Don't click if you like to avoid those.
 * [Commendations Guide](https://np.reddit.com/r/thedivision/comments/b3onz7/commendations_2500_point_guide/)
 * [A Step by Step Guide on How to Obtain All 12 Hunter Mask](https://np.reddit.com/r/thedivision/comments/b3u2ji/a_step_by_step_guide_on_how_to_obtain_all_12/)
 * [DPS Calculator](https://thedivision.zone/)
+* [All Collectibles Locations](https://np.reddit.com/r/thedivision/comments/b32p9a/the_division_2_all_collectibles_location_comms/)
