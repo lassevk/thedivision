@@ -28,6 +28,8 @@ Linked resources may contain spoilers. Don't click if you like to avoid those.
 * While using the mini gun, [hold the left trigger](https://np.reddit.com/r/thedivision/comments/b3rop7/control_point_minigun_tip/ej1tfz8/) (`Right Mouse Button` for pc). This will keep the mechanism winding so when you use the right trigger you get instant firing, no delay.
 * DZ level 10 allows for [free daily loot](https://np.reddit.com/r/thedivision/comments/b3vng4/get_your_dark_zone_level_to_at_least_level_10_as/).
 * [Tag enemies](https://np.reddit.com/r/thedivision/comments/b3rtg2/tag_enemies_to_make_them_easier_for_your_squad_to/) by placing your crosshair directly over an an enemy for a brief period of time to make them easier to track in firefights.
+* You can fast travel to the finished project.
+* You can shot NPC turret's ammo box and it will stop shooting. It will also lure out the engineer that will stand up and try to fix it.
 
 # Useful links (in no particular order)
 
