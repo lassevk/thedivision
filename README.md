@@ -18,9 +18,19 @@ Linked resources may contain spoilers. Don't click if you like to avoid those.
 * It's much easier to navigate menus with keyboard then it is with mouse on PC. Try it out.
 * You can [enable "Grid View" in the inventory](https://np.reddit.com/r/thedivision/comments/b0p5ng/you_can_change_your_inventory_style_to_a_grid/). Check "Options" action at the bottom right of the screen with the inventory open.
 * Completed missions, dark zone checkpoints, friendly control points, settlements, agents from your group and even [control point NPC attack group](https://np.reddit.com/r/thedivision/comments/b3y38t/a_helpful_feature_for_control_points/) can all be used as fast travel locations.
-* It's enough to get all the Control Point resources to 50 to get the buff. If they are already above 50 - just talking to the officer is enough.
+* It's enough to get all the Control Point resources to 50 to get the buff. If they are already at or above 50 - just talking to the officer is enough.
 * Vaulting animation will be quicker if you leave the cover first.
-* Most of the control points loot resets daily.
+* Most of the control points loot resets on a 24 hour timer.
+* ... This also applies to all crates in the game, weapon crates, gear crates
+* ... But does not apply to the big yellow trunk in the control points, this only resets when you take control of a control point
+* Most crafting material and trinket lootables reset on a completely different timer and can usually be looted multiple times a day, especially if you log back in later
+* (Almost?) All sewer sections have small key cabinets on the wall with keys for various faction chests, one key per cabinet. Many such sections have multiple such cabinets
+* ... Some such cabinets are hidden behind strong light fixtures to make them hard to see
+* Most doors, gates, and similar, that have yellow golden handles, can be opened
+* ... But quite often you have to open them from the other side
+* ... And quite often you have to shoot off a padlock (if both are true, see if there is a way for you to see the other side of the door, like through a window or over a wall)
+* ... Many such doors are related to missions, which means you cannot open them in free roam
+* If you come across a closed elevator, and the light on the pad next to it flickers, it means you can force the door open and it has lootables inside
 * Some SHD caches can be reached by [opening the door](https://np.reddit.com/r/thedivision/comments/b3l3iv/after_30_minutes_trying_to_find_a_way_into_the/).
 * Complete all 3 strongholds to get access to specializations.
 * Go from cover to cover with the special key. Agent seems to be much less likely to be shot that way.
@@ -30,6 +40,7 @@ Linked resources may contain spoilers. Don't click if you like to avoid those.
 * [Tag enemies](https://np.reddit.com/r/thedivision/comments/b3rtg2/tag_enemies_to_make_them_easier_for_your_squad_to/) by placing your crosshair directly over an an enemy for a brief period of time to make them easier to track in firefights.
 * You can fast travel to the finished project.
 * You can shot NPC turret's ammo box and it will stop shooting. It will also lure out the engineer that will stand up and try to fix it.
+* Holding the key or button to go to the menu will skip directly to your inventory.
 
 # Useful links (in no particular order)
 
