@@ -23,6 +23,8 @@ Linked resources may contain spoilers. Don't click if you like to avoid those.
 * Most of the control points loot resets on a 24 hour timer.
 * ... This also applies to all crates in the game, weapon crates, gear crates
 * ... But does not apply to the big yellow trunk in the control points, this only resets when you take control of a control point
+* Be aware that faction chests, which require a faction key to open, also restock on a 24 hour timer
+* ... BUT! Be especially aware of the fact that if you replay a mission which contains such a chest, you may encounter the chest locked and requiring a key to open, however, if you have looted this particular chest less than 24 hour earlier, YOU will not get a loot from it. Team members, however, will, unless they too have looted it recently.
 * Most crafting material and trinket lootables reset on a completely different timer and can usually be looted multiple times a day, especially if you log back in later
 * (Almost?) All sewer sections have small key cabinets on the wall with keys for various faction chests, one key per cabinet. Many such sections have multiple such cabinets
 * ... Some such cabinets are hidden behind strong light fixtures to make them hard to see
